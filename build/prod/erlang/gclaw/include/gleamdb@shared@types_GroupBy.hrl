@@ -1,0 +1,1 @@
+-record(group_by, {variable :: binary()}).

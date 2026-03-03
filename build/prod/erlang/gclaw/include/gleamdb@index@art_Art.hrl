@@ -1,0 +1,1 @@
+-record(art, {root :: gleamdb@index@art:node_()}).

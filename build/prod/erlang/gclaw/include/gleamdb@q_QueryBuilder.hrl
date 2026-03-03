@@ -1,0 +1,1 @@
+-record(query_builder, {clauses :: list(gleamdb@shared@types:body_clause())}).

@@ -1,0 +1,1 @@
+-record(config, {parallel_threshold :: integer(), batch_size :: integer()}).

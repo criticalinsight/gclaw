@@ -1,0 +1,1 @@
+-record(tool_call_response, {calls :: list(gclaw@provider@gemini:tool_call())}).

@@ -1,0 +1,1 @@
+-record(message, {role :: binary(), content :: binary()}).

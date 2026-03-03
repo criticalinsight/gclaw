@@ -1,0 +1,1 @@
+-record(scored_result, {entity :: gleamdb@fact:entity_id(), score :: float()}).
